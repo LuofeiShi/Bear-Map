@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="197a81d0-51cd-4c8b-bb31-94fb37833e58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/AStarSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/proj2ab/ArrayHeapMinPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9/MyTrieSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2ab/bearmaps/ArrayHeapMinPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2ab/bearmaps/Dimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2ab/bearmaps/KDTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2ab/bearmaps/NaivePointSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bearmaps/proj2ab/Dimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bearmaps/proj2ab/KDTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4/bearmaps/hw4/AStarGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/AStarGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4/bearmaps/hw4/WeightedEdge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/WeightedEdge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4/bearmaps/hw4/integerhoppuzzle/DemoIntegerHopPuzzleSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/integerhoppuzzle/DemoIntegerHopPuzzleSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4/bearmaps/hw4/lectureexample/DemoAlternateExampleSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/lectureexample/DemoAlternateExampleSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4/bearmaps/hw4/lectureexample/DemoLectureExampleSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/lectureexample/DemoLectureExampleSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4/bearmaps/hw4/slidingpuzzle/DemoRunSeveralPuzzles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/slidingpuzzle/DemoRunSeveralPuzzles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4/bearmaps/hw4/slidingpuzzle/DemoSlidingPuzzleSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/slidingpuzzle/DemoSlidingPuzzleSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4/bearmaps/hw4/wordladderpuzzle/DemoWordPuzzleSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/wordladderpuzzle/DemoWordPuzzleSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4/bearmaps/proj2ab/ExtrinsicMinPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4/bearmaps/proj2ab/ExtrinsicMinPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab11/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab11/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab11/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab11/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab11/TestSortAlgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab11/TestSortAlgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2ab/bearmaps/ArrayHeapMinPQTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj2ab/bearmaps/ArrayHeapMinPQTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2ab/bearmaps/KDTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj2ab/bearmaps/KDTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2c/AugmentedStreetMapGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/bearmaps/proj2c/AugmentedStreetMapGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2c/Router.java" beforeDir="false" afterPath="$PROJECT_DIR$/bearmaps/proj2c/Router.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2c/server/handler/impl/RasterAPIHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/bearmaps/proj2c/server/handler/impl/RasterAPIHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/TileEngine/TETile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj3/byow/TileEngine/TETile.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fPz0Efzlg6Wgs48yo0N4qQn3Xd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestRasterAPIHandler">
+    <configuration name="MapServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bearmaps.proj2c.MapServer" />
+      <module name="proj2c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.proj2c.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRasterAPIHandler" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj2c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps.test" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.test.TestRasterAPIHandler" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRasterAPIHandler.testProcessRequests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj2c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps.test" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.test.TestRasterAPIHandler" />
+      <option name="METHOD_NAME" value="testProcessRequests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRouter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj2c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps.test" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.test.TestRouter" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRouterTiny" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj2c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps.test" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.test.TestRouterTiny" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRasterAPIHandler" />
+        <item itemvalue="Application.MapServer" />
+        <item itemvalue="JUnit.TestRouter" />
+        <item itemvalue="JUnit.TestRouterTiny" />
+        <item itemvalue="JUnit.TestRasterAPIHandler.testProcessRequests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="197a81d0-51cd-4c8b-bb31-94fb37833e58" name="Default Changelist" comment="" />
+      <created>1596134290489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596134290489</updated>
+      <workItem from="1596134291733" duration="4369000" />
+      <workItem from="1596157976577" duration="251000" />
+      <workItem from="1596158263302" duration="7386000" />
+      <workItem from="1596340989067" duration="27887000" />
+      <workItem from="1596435190615" duration="1868000" />
+      <workItem from="1596463024815" duration="3209000" />
+      <workItem from="1596478878640" duration="2922000" />
+      <workItem from="1596590382249" duration="262000" />
+      <workItem from="1596948784428" duration="235000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="264" key="GridCell.Tab.0.bottom" timestamp="1596949019735">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1596499649277" />
+    <state width="1750" height="279" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1596909268376" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1920.982/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596437064856" />
+    <state width="1878" height="264" key="GridCell.Tab.0.bottom/0.23.1920.982/-1920.23.1920.1057@0.23.1920.982" timestamp="1596949019735" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1920.984/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596436005050" />
+    <state width="1878" height="264" key="GridCell.Tab.0.center" timestamp="1596949019734">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1596499649277" />
+    <state width="1750" height="279" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1596909268375" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1920.982/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596437064856" />
+    <state width="1878" height="264" key="GridCell.Tab.0.center/0.23.1920.982/-1920.23.1920.1057@0.23.1920.982" timestamp="1596949019734" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1920.984/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596436005049" />
+    <state width="1878" height="264" key="GridCell.Tab.0.left" timestamp="1596949019734">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1596499649277" />
+    <state width="1750" height="279" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1596909268375" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1920.982/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596437064856" />
+    <state width="1878" height="264" key="GridCell.Tab.0.left/0.23.1920.982/-1920.23.1920.1057@0.23.1920.982" timestamp="1596949019734" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1920.984/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596436005048" />
+    <state width="1878" height="264" key="GridCell.Tab.0.right" timestamp="1596949019734">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1596499649277" />
+    <state width="1750" height="279" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1596909268375" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1920.982/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596437064856" />
+    <state width="1878" height="264" key="GridCell.Tab.0.right/0.23.1920.982/-1920.23.1920.1057@0.23.1920.982" timestamp="1596949019734" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1920.984/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596436005049" />
+    <state width="1878" height="543" key="GridCell.Tab.1.bottom" timestamp="1596435177507">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="543" key="GridCell.Tab.1.bottom/0.23.1920.982/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596435177507" />
+    <state width="1878" height="543" key="GridCell.Tab.1.center" timestamp="1596435177507">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="543" key="GridCell.Tab.1.center/0.23.1920.982/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596435177507" />
+    <state width="1878" height="543" key="GridCell.Tab.1.left" timestamp="1596435177507">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="543" key="GridCell.Tab.1.left/0.23.1920.982/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596435177507" />
+    <state width="1878" height="543" key="GridCell.Tab.1.right" timestamp="1596435177507">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="543" key="GridCell.Tab.1.right/0.23.1920.982/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596435177507" />
+    <state width="1878" height="543" key="GridCell.Tab.2.bottom" timestamp="1596435177508">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="543" key="GridCell.Tab.2.bottom/0.23.1920.982/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596435177508" />
+    <state width="1878" height="543" key="GridCell.Tab.2.center" timestamp="1596435177508">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="543" key="GridCell.Tab.2.center/0.23.1920.982/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596435177508" />
+    <state width="1878" height="543" key="GridCell.Tab.2.left" timestamp="1596435177508">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="543" key="GridCell.Tab.2.left/0.23.1920.982/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596435177508" />
+    <state width="1878" height="543" key="GridCell.Tab.2.right" timestamp="1596435177508">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="543" key="GridCell.Tab.2.right/0.23.1920.982/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596435177508" />
+    <state x="-1472" y="133" key="SettingsEditor" timestamp="1596135458730">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1472" y="133" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1596135458730" />
+    <state x="-1295" y="202" width="670" height="676" key="search.everywhere.popup" timestamp="1596417959317">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1295" y="202" width="670" height="676" key="search.everywhere.popup/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1596245447946" />
+    <state x="-1295" y="202" width="670" height="676" key="search.everywhere.popup/0.23.1920.982/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1596417959317" />
+  </component>
+</project>
